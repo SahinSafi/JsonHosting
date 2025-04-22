@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "message": "success",
+    "data": {
+        "id": 103,
+        "title": "Portable Bluetooth Speaker",
+        "description": "Compact yet powerful 20W speaker with deep bass, 15hr playback, and party lights. Perfect for outdoor adventures.",
+        "previousPrice": 350,
+        "currentPrice": 299,
+        "discountPercentage": 15,
+        "inStock": true,
+        "stockCount": 210,
+        "imageUrl": "https://m.media-amazon.com/images/I/71Ie3JXGfVL._AC_UL320_.jpg",
+        "rating": 4.7,
+        "reviewCount": 890,
+        "brand": "BoomAudio",
+        "colorOptions": ["Black", "Red", "Teal"],
+        "specifications": {
+            "output": "20W RMS",
+            "batteryLife": "15 hours",
+            "connectivity": "Bluetooth 5.2",
+            "weight": "600g",
+            "features": "RGB lights, mic for calls"
+        },
+        "warranty": "18 months warranty"
+    }
+}

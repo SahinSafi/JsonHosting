@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "message": "success",
+    "data": {
+        "id": 104,
+        "title": "Gaming Keyboard (Mechanical)",
+        "description": "RGB mechanical keyboard with customizable macros, anti-ghosting, and wrist rest. Designed for esports enthusiasts.",
+        "previousPrice": 800,
+        "currentPrice": 699,
+        "discountPercentage": 13,
+        "inStock": true,
+        "stockCount": 42,
+        "imageUrl": "https://m.media-amazon.com/images/I/61lYIKPieDL._AC_UL320_.jpg",
+        "rating": 4.8,
+        "reviewCount": 2300,
+        "brand": "RageGear",
+        "colorOptions": ["Black (Red Switches)", "White (Blue Switches)"],
+        "specifications": {
+            "switchType": "Cherry MX Red",
+            "backlight": "RGB (16.8M colors)",
+            "pollingRate": "1000Hz",
+            "durability": "50 million keystrokes",
+            "connectivity": "USB wired"
+        },
+        "warranty": "2 years (6 months for switches)"
+    }
+}

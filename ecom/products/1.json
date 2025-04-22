@@ -1,0 +1,87 @@
+{
+    "statusCode": 200,
+    "message": "success",
+    "page" : 1,
+    "data": [
+        {
+            "id": 101,
+            "title": "Wireless Bluetooth Earbuds",
+            "previousPrice": 500,
+            "currentPrice": 450,
+            "inStock": true,
+            "imageUrl": "https://m.media-amazon.com/images/I/51HBom8xz7L._AC_UL320_.jpg"
+        },
+        {
+            "id": 102,
+            "title": "Smart Watch (Fitness Tracker)",
+            "previousPrice": 600,
+            "currentPrice": 499,
+            "inStock": true,
+            "imageUrl": "https://m.media-amazon.com/images/I/71Swqqe7XAL._AC_UL320_.jpg"
+        },
+        {
+            "id": 103,
+            "title": "Portable Bluetooth Speaker",
+            "previousPrice": 350,
+            "currentPrice": 299,
+            "inStock": true,
+            "imageUrl": "https://m.media-amazon.com/images/I/71Ie3JXGfVL._AC_UL320_.jpg"
+        },
+        {
+            "id": 104,
+            "title": "Gaming Keyboard (Mechanical)",
+            "previousPrice": 800,
+            "currentPrice": 699,
+            "inStock": true,
+            "imageUrl": "https://m.media-amazon.com/images/I/61lYIKPieDL._AC_UL320_.jpg"
+        },
+        {
+            "id": 105,
+            "title": "Wireless Charging Pad",
+            "previousPrice": 250,
+            "currentPrice": 199,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/71X9OTYwvQL._AC_UL320_.jpg"
+        },
+        {
+            "id": 106,
+            "title": "4K Ultra HD Smart TV (55-inch)",
+            "previousPrice": 45000,
+            "currentPrice": 39999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/71u9Q+9UZJL._AC_UL320_.jpg"
+        },
+        {
+            "id": 107,
+            "title": "Noise-Cancelling Headphones",
+            "previousPrice": 3500,
+            "currentPrice": 2999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/61CGHv6kmWL._AC_UL320_.jpg"
+        },
+        {
+            "id": 108,
+            "title": "Electric Toothbrush",
+            "previousPrice": 1200,
+            "currentPrice": 999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/61W5l2XJ2BL._AC_UL320_.jpg"
+        },
+        {
+            "id": 109,
+            "title": "Air Fryer (5.5L)",
+            "previousPrice": 6000,
+            "currentPrice": 4999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/71L+X00yqML._AC_UL320_.jpg"
+        },
+        {
+            "id": 110,
+            "title": "Backpack (Waterproof)",
+            "previousPrice": 1500,
+            "currentPrice": 1299,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/71S4sIPFvBL._AC_UL320_.jpg"
+        }
+    ]
+}

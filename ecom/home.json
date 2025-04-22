@@ -1,0 +1,45 @@
+{
+    "statusCode": 200,
+    "message": "success",
+    "data": {
+        "banner": [
+            {
+                "id": 1,
+                "productId": 101,
+                "imageUrl": "https://m.media-amazon.com/images/I/71qid7QFWJL._SX3000_.jpg"
+            },
+            {
+                "id": 2,
+                "productId": 102,
+                "imageUrl": "https://m.media-amazon.com/images/I/61CiqVTRBEL._SX3000_.jpg"
+            },
+            {
+                "id": 3,
+                "productId": 103,
+                "imageUrl": "https://m.media-amazon.com/images/I/61DUO0NqyyL._SX3000_.jpg"
+            }
+        ],
+        "category": [
+            {
+                "id": 1,
+                "title": "Electronics",
+                "imageUrl": "https://m.media-amazon.com/images/I/71Swqqe7XAL._AC_UL320_.jpg"
+            },
+            {
+                "id": 2,
+                "title": "Fashion",
+                "imageUrl": "https://m.media-amazon.com/images/I/61-jBuhtgZL._AC_UY436_FMwebp_QL65_.jpg"
+            },
+            {
+                "id": 3,
+                "title": "Home & Kitchen",
+                "imageUrl": "https://m.media-amazon.com/images/I/61nzj4lg8mL._AC_UL320_.jpg"
+            },
+            {
+                "id": 4,
+                "title": "Sports & Fitness",
+                "imageUrl": "https://m.media-amazon.com/images/I/61TD5JLGhIL._AC_SY355_.jpg"
+            }
+        ]
+    }
+}

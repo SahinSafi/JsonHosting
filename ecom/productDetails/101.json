@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "message": "success",
+    "data": {
+        "id": 101,
+        "title": "Wireless Bluetooth Earbuds",
+        "description": "Premium wireless earbuds with 20hr battery life, IPX5 water resistance, and touch controls. Perfect for workouts and daily use.",
+        "previousPrice": 500,
+        "currentPrice": 450,
+        "discountPercentage": 10,
+        "inStock": true,
+        "stockCount": 150,
+        "imageUrl": "https://m.media-amazon.com/images/I/51HBom8xz7L._AC_UL320_.jpg",
+        "rating": 4.5,
+        "reviewCount": 1240,
+        "brand": "SoundBeats",
+        "colorOptions": ["Black", "White", "Blue"],
+        "specifications": {
+            "batteryLife": "20 hours",
+            "bluetoothVersion": "5.0",
+            "waterResistance": "IPX5",
+            "chargingTime": "2 hours",
+            "weight": "45g"
+        },
+        "warranty": "1 year manufacturer warranty"
+    }
+}

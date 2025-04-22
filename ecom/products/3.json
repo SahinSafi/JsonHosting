@@ -1,0 +1,87 @@
+{
+    "statusCode": 200,
+    "message": "success",
+    "page": 3,
+    "data": [
+        {
+            "id": 301,
+            "title": "4K Action Camera (Waterproof)",
+            "previousPrice": 12000,
+            "currentPrice": 9999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/61N5vA7mNGL._AC_UL320_.jpg"
+        },
+        {
+            "id": 302,
+            "title": "Wireless Gaming Headset",
+            "previousPrice": 4500,
+            "currentPrice": 3999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/61CGHv6kmWL._AC_UL320_.jpg"
+        },
+        {
+            "id": 303,
+            "title": "Standing Desk (Electric Height Adjustable)",
+            "previousPrice": 15000,
+            "currentPrice": 12999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/71S4sIPFvBL._AC_UL320_.jpg"
+        },
+        {
+            "id": 304,
+            "title": "Espresso Machine (15 Bar Pressure)",
+            "previousPrice": 8000,
+            "currentPrice": 6999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/61nzj4lg8mL._AC_UL320_.jpg"
+        },
+        {
+            "id": 305,
+            "title": "Smart Doorbell (1080p Camera)",
+            "previousPrice": 6000,
+            "currentPrice": 4999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/61TD5JLGhIL._AC_UL320_.jpg"
+        },
+        {
+            "id": 306,
+            "title": "Fitness Tracker (Heart Rate Monitor)",
+            "previousPrice": 2500,
+            "currentPrice": 1999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/71Swqqe7XAL._AC_UL320_.jpg"
+        },
+        {
+            "id": 307,
+            "title": "External SSD (1TB, USB 3.2)",
+            "previousPrice": 7000,
+            "currentPrice": 5999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/61G9JNQTKVL._AC_UL320_.jpg"
+        },
+        {
+            "id": 308,
+            "title": "Air Conditioner (1.5 Ton, Inverter)",
+            "previousPrice": 35000,
+            "currentPrice": 31999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/61X2J6LDSGL._AC_UL320_.jpg"
+        },
+        {
+            "id": 309,
+            "title": "Diamond Painting Kit (Customizable)",
+            "previousPrice": 1200,
+            "currentPrice": 899,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/71W3Z+7qQVL._AC_UL320_.jpg"
+        },
+        {
+            "id": 310,
+            "title": "Robot Vacuum (LiDAR Navigation)",
+            "previousPrice": 22000,
+            "currentPrice": 18999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_UL320_.jpg"
+        }
+    ]
+}

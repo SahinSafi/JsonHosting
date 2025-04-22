@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "message": "success",
+    "data": {
+        "id": 102,
+        "title": "Smart Watch (Fitness Tracker)",
+        "description": "Advanced smartwatch with heart rate monitor, SpO2 tracker, 14-day battery, and 50+ sports modes. Syncs with iOS & Android.",
+        "previousPrice": 600,
+        "currentPrice": 499,
+        "discountPercentage": 17,
+        "inStock": true,
+        "stockCount": 89,
+        "imageUrl": "https://m.media-amazon.com/images/I/71Swqqe7XAL._AC_UL320_.jpg",
+        "rating": 4.3,
+        "reviewCount": 3560,
+        "brand": "FitPro",
+        "colorOptions": ["Midnight Black", "Rose Gold", "Silver"],
+        "specifications": {
+            "display": "1.4\" AMOLED",
+            "batteryLife": "14 days",
+            "healthFeatures": "Heart rate, SpO2, Sleep tracker",
+            "compatibility": "iOS & Android",
+            "waterResistance": "5ATM"
+        },
+        "warranty": "2 years limited warranty"
+    }
+}

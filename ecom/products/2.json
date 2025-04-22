@@ -1,0 +1,87 @@
+{
+    "statusCode": 200,
+    "message": "success",
+    "page": 2,
+    "data": [
+        {
+            "id": 201,
+            "title": "Smartphone (128GB, 6.5\" Display)",
+            "previousPrice": 25000,
+            "currentPrice": 22999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/71GLMJ7TQiL._AC_UL320_.jpg"
+        },
+        {
+            "id": 202,
+            "title": "Running Shoes (Men's)",
+            "previousPrice": 1800,
+            "currentPrice": 1499,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/61-jBuhtgZL._AC_UL320_.jpg"
+        },
+        {
+            "id": 203,
+            "title": "Air Purifier (HEPA Filter)",
+            "previousPrice": 9000,
+            "currentPrice": 7999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/61X2J6LDSGL._AC_UL320_.jpg"
+        },
+        {
+            "id": 204,
+            "title": "Wireless Mouse (Ergonomic)",
+            "previousPrice": 1200,
+            "currentPrice": 899,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/61G9JNQTKVL._AC_UL320_.jpg"
+        },
+        {
+            "id": 205,
+            "title": "Yoga Mat (Non-Slip)",
+            "previousPrice": 800,
+            "currentPrice": 599,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/71W3Z+7qQVL._AC_UL320_.jpg"
+        },
+        {
+            "id": 206,
+            "title": "Coffee Maker (Programmable)",
+            "previousPrice": 3500,
+            "currentPrice": 2999,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/61nzj4lg8mL._AC_UL320_.jpg"
+        },
+        {
+            "id": 207,
+            "title": "Laptop Backpack (Anti-Theft)",
+            "previousPrice": 2000,
+            "currentPrice": 1599,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/71S4sIPFvBL._AC_UL320_.jpg"
+        },
+        {
+            "id": 208,
+            "title": "Electric Kettle (1.5L)",
+            "previousPrice": 1500,
+            "currentPrice": 1299,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/71tJ5W2r5VL._AC_UL320_.jpg"
+        },
+        {
+            "id": 209,
+            "title": "Desk Lamp (Adjustable Brightness)",
+            "previousPrice": 1000,
+            "currentPrice": 799,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/61TD5JLGhIL._AC_UL320_.jpg"
+        },
+        {
+            "id": 210,
+            "title": "Winter Jacket (Waterproof)",
+            "previousPrice": 4000,
+            "currentPrice": 3499,
+            "inStock": false,
+            "imageUrl": "https://m.media-amazon.com/images/I/71X9OTYwvQL._AC_UL320_.jpg"
+        }
+    ]
+}
